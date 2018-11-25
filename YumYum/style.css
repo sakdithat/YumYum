@@ -1,0 +1,494 @@
+@font-face {
+  font-family: 'FontAwesome';
+  src: url("applab/fontawesome-webfont.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+#divApplab.appModern button.appModernDesign,
+#divApplab.appModern button.appModernDesign:hover {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  height: 30px;
+  width: 80px;
+  font-size: 14px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(26, 188, 156);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern label.appModernDesign,
+#divApplab.appModern label.appModernDesign:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 2px;
+  padding-right: 2px;
+  padding-bottom: 2px;
+  padding-left: 2px;
+  line-height: 1;
+  font-size: 14px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  overflow-wrap: break-word;
+  color: rgb(51, 51, 51);
+  max-width: 320px;
+  width: 32px;
+  height: 19px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=text].appModernDesign,
+#divApplab.appModern input[type=text].appModernDesign:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  width: 200px;
+  height: 30px;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=checkbox].appModernDesign,
+#divApplab.appModern input[type=checkbox].appModernDesign:hover {
+  width: 12px;
+  height: 12px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern select.appModernDesign,
+#divApplab.appModern select.appModernDesign:hover {
+  width: 200px;
+  height: 30px;
+  font-size: 14px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(26, 188, 156);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=radio].appModernDesign,
+#divApplab.appModern input[type=radio].appModernDesign:hover {
+  width: 12px;
+  height: 12px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern div.textArea.appModernDesign,
+#divApplab.appModern div.textArea.appModernDesign:hover {
+  width: 200px;
+  height: 100px;
+  font-size: 14px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern img.appModernDesign,
+#divApplab.appModern img.appModernDesign:hover {
+  height: 100px;
+  width: 100px;
+  object-fit: contain;
+  font-family: "object-fit: contain;";
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern canvas.appModernDesign,
+#divApplab.appModern canvas.appModernDesign:hover {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern div.screen.appModernDesign,
+#divApplab.appModern div.screen.appModernDesign:hover {
+  display: block;
+  height: 450px;
+  width: 320px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  z-index: 0;
+}
+
+#divApplab.appModern div.chart.appModernDesign,
+#divApplab.appModern div.chart.appModernDesign:hover {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern input[type=range].appModernDesign,
+#divApplab.appModern input[type=range].appModernDesign:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  width: 150px;
+  height: 24px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern #a01 {
+  background-color: rgb(255, 255, 255);
+}
+
+#divApplab.appModern #image1 {
+  height: 325px;
+  width: 320px;
+  top: -1.11022e-16px;
+}
+
+#divApplab.appModern #login1 {
+  background-color: rgb(255, 193, 24);
+  left: 115px;
+  top: 350px;
+}
+
+#divApplab.appModern #home01 {
+  display: none;
+}
+
+#divApplab.appModern #borrow {
+  height: 35px;
+  width: 115px;
+  background-color: rgb(32, 211, 138);
+  left: 105px;
+  top: 155px;
+  background-image: url("https://studio.code.org/blockly/media/1x1.gif");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #out {
+  width: 100px;
+  background-color: rgb(226, 32, 32);
+  left: 110px;
+  top: 410px;
+}
+
+#divApplab.appModern #image4 {
+  height: 125px;
+  width: 305px;
+  left: 10px;
+}
+
+#divApplab.appModern #button4 {
+  height: 35px;
+  width: 115px;
+  left: 105px;
+  top: 205px;
+}
+
+#divApplab.appModern #sl01 {
+  display: none;
+}
+
+#divApplab.appModern #image2 {
+  height: 125px;
+  width: 305px;
+  left: 10px;
+}
+
+#divApplab.appModern #t1 {
+  left: 20px;
+  top: 145px;
+}
+
+#divApplab.appModern #label5 {
+  width: 79px;
+  left: 20px;
+  top: 125px;
+}
+
+#divApplab.appModern #button5 {
+  left: 225px;
+  top: 145px;
+}
+
+#divApplab.appModern #button6 {
+  background-color: rgb(242, 181, 68);
+  left: 15px;
+  top: 405px;
+}
+
+#divApplab.appModern #t2 {
+  width: 255px;
+  left: 20px;
+  top: 190px;
+}
+
+#divApplab.appModern #t3 {
+  left: 105px;
+  top: 235px;
+}
+
+#divApplab.appModern #t4 {
+  left: 105px;
+  top: 275px;
+}
+
+#divApplab.appModern #label6 {
+  width: 37px;
+  left: 20px;
+  top: 235px;
+}
+
+#divApplab.appModern #label7 {
+  width: 38px;
+  left: 20px;
+  top: 280px;
+}
+
+#divApplab.appModern #t5 {
+  left: 105px;
+  top: 315px;
+}
+
+#divApplab.appModern #label8 {
+  width: 43px;
+  left: 20px;
+  top: 320px;
+}
+
+#divApplab.appModern #button7 {
+  width: 100px;
+  background-color: rgb(26, 188, 98);
+  left: 110px;
+  top: 405px;
+}
+
+#divApplab.appModern #button8 {
+  background-color: rgb(228, 60, 63);
+  left: 225px;
+  top: 405px;
+}
+
+#divApplab.appModern #label10 {
+  width: 60px;
+  height: 20px;
+  left: 20px;
+  top: 360px;
+}
+
+#divApplab.appModern #l1 {
+  color: rgb(159, 159, 159);
+  width: 60px;
+  height: 25px;
+  left: 105px;
+  top: 360px;
+}
+
+#divApplab.appModern #b01 {
+  display: none;
+}
+
+#divApplab.appModern #dd1 {
+  width: 255px;
+  left: 25px;
+  top: 145px;
+}
+
+#divApplab.appModern #image3 {
+  height: 125px;
+  width: 305px;
+  left: 10px;
+}
+
+#divApplab.appModern #text1 {
+  width: 110px;
+  height: 25px;
+  left: 170px;
+  top: 185px;
+}
+
+#divApplab.appModern #label1 {
+  width: 145px;
+  height: 20px;
+  left: 20px;
+  top: 190px;
+}
+
+#divApplab.appModern #back01 {
+  background-color: rgb(234, 114, 117);
+  left: 60px;
+  top: 395px;
+}
+
+#divApplab.appModern #b2 {
+  background-color: rgb(37, 191, 82);
+  left: 170px;
+  top: 395px;
+}
+
+#divApplab.appModern #text2 {
+  left: 80px;
+  top: 240px;
+}
+
+#divApplab.appModern #text3 {
+  left: 80px;
+  top: 280px;
+}
+
+#divApplab.appModern #label2 {
+  width: 55px;
+  height: 25px;
+  left: 20px;
+  top: 245px;
+}
+
+#divApplab.appModern #label3 {
+  width: 55px;
+  height: 25px;
+  left: 20px;
+  top: 285px;
+}
+
+#divApplab.appModern #label4 {
+  color: rgb(245, 17, 17);
+  width: 160px;
+  height: 20px;
+  left: 20px;
+  top: 320px;
+}
+
+#divApplab.appModern #text4 {
+  left: 80px;
+  top: 350px;
+}
+
+#divApplab.appModern #label9 {
+  font-size: 12px;
+  color: rgb(116, 116, 116);
+  width: 137px;
+  height: 17px;
+  left: 80px;
+  top: 220px;
+}
+
+#divApplab.appModern #w01 {
+  display: none;
+}
+
+#divApplab.appModern #image5 {
+  height: 300px;
+  width: 310px;
+  left: 10px;
+  top: 35px;
+}
+
+#divApplab.appModern #text_area2 {
+  left: 60px;
+  top: 165px;
+}
+
+#divApplab.appModern #text_area3 {
+  height: 40px;
+  font-size: 10px;
+  left: 60px;
+  top: 195px;
+}
+
+#divApplab.appModern #button1 {
+  width: 55px;
+  left: 190px;
+  top: 225px;
+}
+
+#divApplab.appModern #w02 {
+  display: none;
+}
+
+#divApplab.appModern #image6 {
+  height: 300px;
+  width: 310px;
+  left: 10px;
+  top: 35px;
+}
+
+#divApplab.appModern #text_area4 {
+  left: 60px;
+  top: 165px;
+}
+
+#divApplab.appModern #text_area5 {
+  height: 40px;
+  font-size: 10px;
+  left: 60px;
+  top: 195px;
+}
+
+#divApplab.appModern #button2 {
+  width: 55px;
+  left: 80px;
+  top: 225px;
+}
+
+#divApplab.appModern #button3 {
+  width: 55px;
+  background-color: rgb(235, 48, 48);
+  left: 180px;
+  top: 225px;
+}
